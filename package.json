@@ -2,6 +2,7 @@
   "name": "usermanager-api",
   "version": "1.0.0",
   "description": "",
+  "proxy": "https://usermanager-api.herokuapp.com:8000",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
